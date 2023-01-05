@@ -1,0 +1,11 @@
+eng_wikipedia_2016_1M-sentences.txt
+eng_wikipedia_2016_1M-words.txt
+eng_wikipedia_2016_10K-sentences.txt
+EN-SIMLEX-999.txt
+.idea/
+*.iml
+inspectionProfiles/
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
